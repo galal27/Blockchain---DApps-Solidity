@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Hillary Clinton (D)",
+    "picture": "images/Hillary-Clinton.png"
+  },
+  {
+    "id": 1,
+    "name": "Donald Trump (R)",
+    "picture": "images/Donald-Trump.png"
+  },
+  {
+    "id": 2,
+    "name": "Jill Stein (G)",
+    "picture": "images/Jill-Stein.png"
+  },
+  {
+    "id": 3,
+    "name": "Gary Johnson (L)",
+    "picture": "images/Gary-Johnson.png"
+  }
+]
